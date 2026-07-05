@@ -22,9 +22,3 @@ This repository contains the complete documentation and source code for the **Pe
 - GPT-2
 - Wikipedia API
 
-## Team Members
-
-- Virinchi
-- M. Soma Sekhar
-- Mude Dinesh Naik
-- E. Vamsi Krishna
